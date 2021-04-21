@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+*{margin:0;
+padding: 0;}
+body{
+    width: auto;
+    font-family: sans-serif;
+    text-align: center;
+}
+header{
+    
+    height:500px;
+}
+.navbar{
+    background-color: black;
+    color: #ffffff;
+    height: 50px;
+}  
+.navbar ul{
+    text-align: center;
+    
+}
+.navbar li{
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 200px;
+    margin-top:15px;
+}
+.conteudo{
+    background-color: rgb(131, 161, 61);
+}
+.titulo{
+    padding-top: 20px;
+    text-align: center;
+    font-size: 30pt;
+}
+.subtitulo{
+    color:red;
+    text-align: center;
+}
+.projeto02{
+    width: 20%;
+    margin-top: 90px;
+}
+.legenda01{
+    
+}
+.descricao01{
+    text-align:center;
+    font-size: 12pt;
+    font-weight: bolder;
+}
